@@ -1,7 +1,7 @@
 # Employee Attrition Analysis
 
 ## Objective
-This project demonstrates Excel proficiency through the analysis of employee turnover patterns to identify key drivers of attrition and inform retention strategies.
+This project demonstrates Excel proficiency through the analysis of employee turnover patterns to identify key drivers of attrition. 
 
 ## Tools 
 Microsoft Excel (Data Cleaning, Pivot Tables, Data Visualization) 
